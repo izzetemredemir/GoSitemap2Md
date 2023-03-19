@@ -1,5 +1,5 @@
-## Freegames.codes Sitemap Urls
- 
+## Freegames.codes Sitemap Urls List:
+
 [Vile Matter is free on Itch.io ](https://freegames.codes/game/2949/vile-matter/)
 
 [Goose Simulator is free on Itch.io ](https://freegames.codes/game/2948/goose-simulator/)
