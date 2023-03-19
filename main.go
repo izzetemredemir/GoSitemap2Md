@@ -30,11 +30,11 @@ type urlData struct {
 
 var ctx = context.Background()
 
-const jsonpath = "/Users/felix/Documents/openai/readmecreator/urls.json"
+const jsonpath = "./urls.json"
 
-const sitemapUrl = "https://freegames.codes/sitemap.xml"
+const sitemapUrl = "https://example.com/sitemap.xml"
 
-const readmePath = "/Users/felix/Documents/openai/readmecreator/readme.md"
+const readmePath = "./readme.md"
 
 func fetchH1Tags(url string) (string, string) {
 	res, err := http.Get(url)
